@@ -1,12 +1,13 @@
 //Global Variation
 int appWidth, appHeight;
-Boolean start=false, noNowReallyStart=false;
-float quitButtonX, quitButtonY, quitButtonWidth, quitButtonHeight;
-
-
+//
 void setup() {
   //Display & Oreintation
-  size (600,400;
+  size (600,400);
+  displayOrientation();
+  appWidth = width;
+  appHeight = height;
+  //
   //Population
   //Theme: i.e Face (will work in portrait and landscape)
   //Background Image (could be in draw too)
