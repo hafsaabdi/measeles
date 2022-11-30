@@ -1,5 +1,6 @@
 //Global Variation
 int appWidth, appHeight;
+float reset=1;
 //
 void setup() {
   //Display & Oreintation
