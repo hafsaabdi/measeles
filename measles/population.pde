@@ -10,7 +10,11 @@ faceX=centerX;
 faceY=centerY;
 faceDiameter=appHeight;
 //
-//
+leftEyeX=;
+leftEyeY=;
+rightEyeX=;
+rightEyeY=;
+eyeDiameter=;
 }//End population
 //
 // End Population Subprogram

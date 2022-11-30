@@ -1,3 +1,4 @@
+float mouthDiameter;
 void mouth() {
 }//End mouth
 //
