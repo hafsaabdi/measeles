@@ -1,6 +1,5 @@
 float rectFaceX, rectFaceY, rectFaceWidth, rectFaceHeight;
 float faceX, faceY, faceDiameter;
-
 //
 void faceSetup() {
   //Face: inscribing a circle in a square ( i.e. logical rectangle)
